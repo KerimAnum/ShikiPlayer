@@ -3,7 +3,7 @@
 // @description     видеоплеер для просмотра прямо на Shikimori
 // @author          Onzis
 // @license         GPL-3.0 license
-// @version         1.67
+// @version         1.7
 // @grant           GM.xmlHttpRequest
 // @connect         shikimori.me
 // @connect         kodikapi.com
