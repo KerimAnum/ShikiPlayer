@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name            Плеер для shikimori
+// @name            ShikiPlayer
 // @description     видеоплеер для просмотра прямо на Shikimori
-// @author          Ker
+// @author          Onzis
 // @license         GPL-3.0 license
 // @version         1.67
 // @grant           GM.xmlHttpRequest
